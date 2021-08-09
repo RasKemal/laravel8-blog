@@ -1,8 +1,6 @@
 ## Laravel 8  Blog
 
 •	Author: Kemal Selçuk <br>
-•	Twitter: [@codewithdary](https://twitter.com/codewithdary) <br>
-•	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>
 
 ## Requirements
 •	PHP 8.0.8 or higher <br>
