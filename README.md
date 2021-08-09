@@ -1,6 +1,6 @@
 ## Laravel 8  Blog
 
-•	Author: Kemal Selçuk <br>
+•	KEMAL SELÇUK
 
 ## Requirements
 •	PHP 8.0.8 or higher <br>
@@ -16,6 +16,13 @@ composer install
 php artisan key:generate
 php artisan cache:clear && php artisan config:clear
 php artisan serve
+```
+## Install mySQL (I used xampp)
+You will see the tables of your database on phpMyAdmin.
+
+## To compile Tailwindcss codes
+```
+npm run watch
 ```
 
 ## Before starting <br>
